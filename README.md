@@ -100,6 +100,15 @@ go build -o chatmood cmd/server/main.go
 3. **Preview**: Real-time canvas preview of your sticker
 4. **Share**: Send directly to Telegram chats or save locally
 
+## Screenshots
+
+<img width="515" height="823" alt="image" src="https://github.com/user-attachments/assets/a1a089ca-be2f-4a89-b7cc-847b56115292" />
+<img width="507" height="831" alt="image" src="https://github.com/user-attachments/assets/84f8049d-66a9-4938-b83d-bc87880d866e" />
+<img width="516" height="831" alt="image" src="https://github.com/user-attachments/assets/0def46a2-0782-4e9d-bf78-64f439b7a4e6" />
+<img width="513" height="832" alt="image" src="https://github.com/user-attachments/assets/1abd03cb-18aa-4506-89a9-7a8ac9d668c5" />
+
+
+
 ## 📁 Project Structure
 
 ```
